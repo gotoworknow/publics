@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on 紫丸 Theme</title>
+    <link>/categories.html</link>
+    <description>Recent content in Categories on 紫丸 Theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 29 Feb 2020 00:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>日文</title>
+      <link>/categories/%E6%97%A5%E6%96%87.html</link>
+      <pubDate>Sat, 29 Feb 2020 00:00:00 +0800</pubDate>
+      
+      <guid>/categories/%E6%97%A5%E6%96%87.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Demo</title>
+      <link>/categories/demo.html</link>
+      <pubDate>Mon, 03 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/demo.html</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
